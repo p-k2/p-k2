@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 2nd year B.Tech CSE student (graduating 2027)  
+- 🎓 3rd year B.Tech CSE student (graduating 2027)  
 - 💻 Full-stack developer skilled in **MERN stack**  
 - ☕ Learning **Java** and building real-world Java projects  
 - 🤖 Interested in **Machine Learning** & integrating ML into full-stack apps  
@@ -22,7 +22,7 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+  <img src="https://skillicons.dev/icons?i=js,java,python" />
 </p>
 
 ### **Web Development**
@@ -32,7 +32,7 @@
 
 ### **Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,github,vscode" />
 </p>
 
 ### **Machine Learning**
@@ -60,21 +60,14 @@ Data analysis + Machine Learning model to predict best-selling books.
 
 ---
 
-### 🌦️ **3. Weather Forecasting App**
-Fetches real-time weather data using API.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 *Repo:* [Weather App](https://github.com/p-k2/weather-app)
-
----
-
-### 🎵 **4. Spotify Clone UI**
+### 🎵 **3. Spotify Clone UI**
 Frontend UI inspired by Spotify with clean, modern UI.  
 **Tech:** HTML, CSS  
 🔗 *Repo:* [Spotify Clone](https://github.com/p-k2/Spotify-clone)
 
 ---
 
-### 🧠 **5. Machine Learning Mini-Projects**
+### 🧠 **4. Machine Learning Mini-Projects**
 Small ML projects for learning and portfolio building.  
 **Tech:** Python + ML libraries  
 🔗 *All ML Projects* (Add when available)
@@ -101,8 +94,8 @@ Small ML projects for learning and portfolio building.
 ## 📫 How to Reach Me
 
 📩 **Email:** kaurpalakdeep2@gmail.com  
-💼 **LinkedIn:** *(add your link here)*  
-🌐 **Portfolio Website:** *(optional — I can help you build one)*  
+💼 **LinkedIn:** (https://www.linkedin.com/in/palakdeep-kaur-my-profile/)
+
 
 ---
 

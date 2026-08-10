@@ -9,11 +9,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd year B.Tech CSE student (graduating 2027)  
+- 🎓 4th year B.Tech CSE student (graduating 2027)  
 - 💻 Full-stack developer skilled in **MERN stack**  
 - ☕ Learning **Java** and building real-world Java projects  
 - 🤖 Interested in **Machine Learning** & integrating ML into full-stack apps  
-- 🌍 Aiming for **software internships in USA/Europe (2025)**  
 - ✨ Currently enhancing my MERN project with ML features  
 
 ---

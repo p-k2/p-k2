@@ -70,7 +70,6 @@ Frontend UI inspired by Spotify with clean, modern UI.
 ### 🧠 **4. Machine Learning Mini-Projects**
 Small ML projects for learning and portfolio building.  
 **Tech:** Python + ML libraries  
-🔗 *All ML Projects* (Add when available)
 
 ---
 

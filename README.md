@@ -56,7 +56,10 @@
   <img src="https://skillicons.dev/icons?i=python" />  
   <br/>
  <img src = "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
-  Pandas · NumPy · Matplotlib · Scikit-learn
+  <img src = "https://img.icons8.com/?size=96&id=aR9CXyMagKIS&format=png"/>
+  <img src = "https://icons8.com/icon/TkX1totjFmAD/matplotlib"/>
+  
+ Scikit-learn
 </p>
 
 ---

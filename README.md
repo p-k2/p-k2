@@ -2,20 +2,20 @@
 
 <p align="center">
   <b>B.Tech CSE | MERN Developer | Java Programmer | Machine Learning Enthusiast</b>  
-  <br/>
+ 
   Passionate about building impactful projects, learning cutting-edge technologies, and exploring opportunities in software development.
 </p>
 
----
 
-## 🚀 About Me
-- 🎓 4th year B.Tech CSE student (graduating 2027)  
-- 💻 Full-stack developer skilled in **MERN stack**  
-- ☕ Learning **Java** and building real-world Java projects  
-- 🤖 Interested in **Machine Learning** & integrating ML into full-stack apps  
-- ✨ Currently enhancing my MERN project with ML features  
 
----
+## About Me
+- 4th year B.Tech CSE student (graduating 2027)  
+- Full-stack developer skilled in **MERN stack**  
+- Learning **Java** and building real-world Java projects  
+- Interested in **Machine Learning** & integrating ML into full-stack apps  
+- Currently enhancing my MERN project with ML features  
+
+
 
 ## 🛠 Tech Stack
 
@@ -62,58 +62,53 @@
  Scikit-learn
 </p>
 
----
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🌿 **1. MERN Airbnb Clone**
+###  **1. MERN Airbnb Clone**
 A full-stack platform to list and explore villas/houses with images, pricing, and locations.  
 **Tech:** React, Node.js, Express, MongoDB, Tailwind  
 🔗 *Repo:* [Airbnb Clone](https://github.com/p-k2/Airbnb-clone-site)
 
 ---
 
-### 📚 **2. Amazon Best-Seller Books Analysis + ML Model**
+###  **2. Amazon Best-Seller Books Analysis + ML Model**
 Data analysis + Machine Learning model to predict best-selling books.  
 **Tech:** Python, Pandas, Numpy, Matplotlib, Scikit-learn  
 🔗 *Repo:* [amazon_best-seller_books_analysis](https://github.com/p-k2/amazon_best-seller_books_analysis)
 
----
 
-### 🎵 **3. Spotify Clone UI**
+###  **3. Spotify Clone UI**
 Frontend UI inspired by Spotify with clean, modern UI.  
 **Tech:** HTML, CSS  
 🔗 *Repo:* [Spotify Clone](https://github.com/p-k2/Spotify-clone)
 
----
 
-### 🧠 **4. Machine Learning Mini-Projects**
-Small ML projects for learning and portfolio building.  
+###  **4. Deluxe Sales Dshboard**
+Streamlit based Deluxe Sales Dashboard (Online Store) with interactive UI ,giving valuable insights.
 **Tech:** Python + ML libraries  
+🔗 *Repo:* [Deluxe Sales Dashboard](https://github.com/p-k2/Deluxe-Sales-Performance-Dashboard)
 
----
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=p-k2&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-k2&layout=compact&theme=tokyonight" height="160" />
 </p>
 
----
 
-## 🏆 Achievements & Highlights
+## Achievements & Highlights
 - Completed MERN stack development  
-- Built a real ML prediction model for a book dataset  
-- 45+ books read in 2024 📖  
+- Built a real ML prediction model for a book dataset   
 - Strong interest in research, AI, and scalable software systems  
 
----
 
-## 📫 How to Reach Me
 
-📩 **Email:** kaurpalakdeep2@gmail.com  
-💼 **LinkedIn:** (https://www.linkedin.com/in/palakdeep-kaur-my-profile/)
+## How to Reach Me
+
+ **Email:** kaurpalakdeep2@gmail.com  
+ **LinkedIn:** (https://www.linkedin.com/in/palakdeep-kaur-my-profile/)
 
 
 ---

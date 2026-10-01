@@ -7,14 +7,12 @@
 </p>
 
 
-
 ## About Me
 - 4th year B.Tech CSE student (graduating 2027)  
 - Full-stack developer skilled in **MERN stack**  
 - Learning **Java** and building real-world Java projects  
 - Interested in **Machine Learning** & integrating ML into full-stack apps  
 - Currently enhancing my MERN project with ML features  
-
 
 
 ## 🛠 Tech Stack
@@ -70,7 +68,6 @@ A full-stack platform to list and explore villas/houses with images, pricing, an
 **Tech:** React, Node.js, Express, MongoDB, Tailwind  
 🔗 *Repo:* [Airbnb Clone](https://github.com/p-k2/Airbnb-clone-site)
 
----
 
 ###  **2. Amazon Best-Seller Books Analysis + ML Model**
 Data analysis + Machine Learning model to predict best-selling books.  

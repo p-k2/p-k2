@@ -75,10 +75,10 @@ Data analysis + Machine Learning model to predict best-selling books.
 🔗 *Repo:* [amazon_best-seller_books_analysis](https://github.com/p-k2/amazon_best-seller_books_analysis)
 
 
-###  **3. Spotify Clone UI**
-Frontend UI inspired by Spotify with clean, modern UI.  
-**Tech:** HTML, CSS  
-🔗 *Repo:* [Spotify Clone](https://github.com/p-k2/Spotify-clone)
+###  **3. ProConvo Video Chat**  
+  A real-time web-based video calling application built with WebRTC during my 6-month industrial training. 
+**Tech:** React, MongoDB, Express, Node.js, MaterialUI, WebRTC, Sockets 
+🔗 *Repo:* [ProConvo Video Chat](https://github.com/p-k2/ProConvo-Web-Based-Video-Chat-app)
 
 
 ###  **4. Deluxe Sales Dshboard**

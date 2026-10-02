@@ -1,21 +1,22 @@
-<h2 align="center">Hi, I'm Palakdeep Kaur 👋</h2>
-
+<h3 align="center">Hi, I'm Palakdeep Kaur 👋</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider" width="100%">
 <p align="center">
-  <b>B.Tech CSE | MERN Developer | Java Programmer | Machine Learning Enthusiast</b>  
- 
-  Passionate about building impactful projects, learning cutting-edge technologies, and exploring opportunities in software development.
+  <b>B.Tech CSE '27 | Full-Stack Developer | Java Problem Solver</b><br>
+  Turning complex algorithms into clean, efficient code. Passionate about building scalable web applications and integrating Machine Learning into real-world projects.
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider" width="100%">
 
-## About Me
+### About Me
 - 4th year B.Tech CSE student (graduating 2027)  
 - Full-stack developer skilled in **MERN stack**  
 - Learning **Java** and building real-world Java projects  
 - Interested in **Machine Learning** & integrating ML into full-stack apps  
 - Currently enhancing my MERN project with ML features  
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider" width="100%">
 
-## 🛠 Tech Stack
+###  Tech Stack
 
 ### **Languages**
 <p>
@@ -60,8 +61,9 @@
  Scikit-learn
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider" width="100%">
 
-## Featured Projects
+### Featured Projects
 
 ###  **1. MERN Airbnb Clone**
 A full-stack platform to list and explore villas/houses with images, pricing, and locations.  
@@ -87,27 +89,25 @@ Streamlit based Deluxe Sales Dashboard (Online Store) with interactive UI ,givin
 🔗 *Repo:* [Deluxe Sales Dashboard](https://github.com/p-k2/Deluxe-Sales-Performance-Dashboard)
 
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=p-k2&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-k2&layout=compact&theme=tokyonight" height="160" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider" width="100%">
 
-
-## Achievements & Highlights
+### Achievements & Highlights
 - Completed MERN stack development  
 - Built a real ML prediction model for a book dataset   
 - Strong interest in research, AI, and scalable software systems  
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider" width="100%">
 
-
-## How to Reach Me
+### How to Reach Me
 
  **Email:** kaurpalakdeep2@gmail.com  
  **LinkedIn:** (https://www.linkedin.com/in/palakdeep-kaur-my-profile/)
 
-
----
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
